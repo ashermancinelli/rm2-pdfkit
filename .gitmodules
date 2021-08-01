@@ -1,0 +1,6 @@
+[submodule "tpl/nlohmann-json"]
+	path = tpl/nlohmann-json
+	url = https://github.com/nlohmann/json.git
+[submodule "tpl/spdlog"]
+	path = tpl/spdlog
+	url = https://github.com/gabime/spdlog.git
